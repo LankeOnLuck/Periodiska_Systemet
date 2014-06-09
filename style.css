@@ -1,0 +1,56 @@
+table {
+	border: none;
+	font-family: Verdana,Tahoma, sans-serif;
+}
+
+thead {
+	background-color: #ddd;
+	text-shadow: 1px 3px 1px #fff;
+}
+
+tr {
+	background-color: #61d7a4;
+}
+
+/*tr:hover {
+	background-color: #fff;
+}
+
+tr {
+	-webkit-transition: background-color 2s;
+		-mox-transition: background-color 2s;
+		 -ms-transition: background-color 2s;
+		  -o-transition: background-color 2s;
+		 	  transition: background-color 2s;
+}*/
+
+
+
+.emptySpace {
+	border: 0px;
+	background-color: #fff
+}
+.firstCol {
+	background-color: blue;
+}
+.secondCol {
+	background-color: #b3acdd;
+}
+.specialRow1 {
+	background-color: #ff5717;
+}
+.specialRow2 {
+	background-color: #ffe446;
+}
+.middlePart {
+	background-color: #a650d1;
+}
+.middleHalfCol {
+	background-color: #d1904e;
+}
+.secondLastCol {
+	background-color: #f20000;
+}
+.lastCol {
+	background-color: #e0e0e0;
+}
